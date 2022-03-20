@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>prjOOP.InheritanceEg</StartupObject>
+    <StartupObject>prjOOP.AbstractEg</StartupObject>
   </PropertyGroup>
 
 </Project>

@@ -308,6 +308,32 @@ Overloading  -no of  parameter   and type of the parameter
 
 --samename 
  
+AccessSpecifiers or AccessModifier
+-----------------------------------
+1.private 2.protected 3.internal 4.protected internal 5.public 
+
+class
+
+member-variable of the class
+
+memberfunction/methods
+
+Inheritance
+------------
+--code reusability
+
+allow you to access the information(member and member function) from the parent class
+
+1.single 2.Multilevel 3.
+
+Abstract:
+---------
+hiding the background details -abstraction
+
+Polymorphism
+------------
+1.CompileTime polymorphism   (Overloading)  2.Run-Time polymorphism (Overriding)
+
 
 
 

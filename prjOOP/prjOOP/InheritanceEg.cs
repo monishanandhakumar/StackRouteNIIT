@@ -56,10 +56,10 @@ namespace prjOOP
     {
         string extraactivity;
 
-        Activities(string id, int rollno, string sname, string extraactivity) : base(id,rollno,sname)
+      internal  Activities(string idno, int rollno, string sname, string activity) : base(idno,rollno,sname)
         {
             Console.WriteLine("ActivitesConstructor");
-            this.extraactivity = extraactivity;
+            extraactivity = activity;
         }
         internal void DisplayActivity()
         {
