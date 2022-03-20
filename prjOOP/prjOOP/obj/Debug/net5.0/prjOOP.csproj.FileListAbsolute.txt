@@ -1,0 +1,16 @@
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\bin\Debug\net5.0\prjOOP.exe
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\bin\Debug\net5.0\prjOOP.deps.json
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\bin\Debug\net5.0\prjOOP.runtimeconfig.json
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\bin\Debug\net5.0\prjOOP.runtimeconfig.dev.json
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\bin\Debug\net5.0\prjOOP.dll
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\bin\Debug\net5.0\ref\prjOOP.dll
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\bin\Debug\net5.0\prjOOP.pdb
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\obj\Debug\net5.0\prjOOP.csproj.AssemblyReference.cache
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\obj\Debug\net5.0\prjOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\obj\Debug\net5.0\prjOOP.AssemblyInfoInputs.cache
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\obj\Debug\net5.0\prjOOP.AssemblyInfo.cs
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\obj\Debug\net5.0\prjOOP.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\obj\Debug\net5.0\prjOOP.dll
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\obj\Debug\net5.0\ref\prjOOP.dll
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\obj\Debug\net5.0\prjOOP.pdb
+C:\OnlineTraining\CGI\C#\prjOOP\prjOOP\obj\Debug\net5.0\prjOOP.genruntimeconfig.cache

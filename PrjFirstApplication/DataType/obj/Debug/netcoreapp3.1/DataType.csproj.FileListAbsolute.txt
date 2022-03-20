@@ -1,0 +1,14 @@
+C:\OnlineTraining\CGI\C#\PrjFirstApplication\DataType\bin\Debug\netcoreapp3.1\DataType.exe
+C:\OnlineTraining\CGI\C#\PrjFirstApplication\DataType\bin\Debug\netcoreapp3.1\DataType.deps.json
+C:\OnlineTraining\CGI\C#\PrjFirstApplication\DataType\bin\Debug\netcoreapp3.1\DataType.runtimeconfig.json
+C:\OnlineTraining\CGI\C#\PrjFirstApplication\DataType\bin\Debug\netcoreapp3.1\DataType.runtimeconfig.dev.json
+C:\OnlineTraining\CGI\C#\PrjFirstApplication\DataType\bin\Debug\netcoreapp3.1\DataType.dll
+C:\OnlineTraining\CGI\C#\PrjFirstApplication\DataType\bin\Debug\netcoreapp3.1\DataType.pdb
+C:\OnlineTraining\CGI\C#\PrjFirstApplication\DataType\obj\Debug\netcoreapp3.1\DataType.csproj.AssemblyReference.cache
+C:\OnlineTraining\CGI\C#\PrjFirstApplication\DataType\obj\Debug\netcoreapp3.1\DataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineTraining\CGI\C#\PrjFirstApplication\DataType\obj\Debug\netcoreapp3.1\DataType.AssemblyInfoInputs.cache
+C:\OnlineTraining\CGI\C#\PrjFirstApplication\DataType\obj\Debug\netcoreapp3.1\DataType.AssemblyInfo.cs
+C:\OnlineTraining\CGI\C#\PrjFirstApplication\DataType\obj\Debug\netcoreapp3.1\DataType.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\CGI\C#\PrjFirstApplication\DataType\obj\Debug\netcoreapp3.1\DataType.dll
+C:\OnlineTraining\CGI\C#\PrjFirstApplication\DataType\obj\Debug\netcoreapp3.1\DataType.pdb
+C:\OnlineTraining\CGI\C#\PrjFirstApplication\DataType\obj\Debug\netcoreapp3.1\DataType.genruntimeconfig.cache

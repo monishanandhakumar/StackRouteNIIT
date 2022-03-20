@@ -1,0 +1,16 @@
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\bin\Debug\net5.0\ProgrammingBasic2.exe
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\bin\Debug\net5.0\ProgrammingBasic2.deps.json
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\bin\Debug\net5.0\ProgrammingBasic2.runtimeconfig.json
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\bin\Debug\net5.0\ProgrammingBasic2.runtimeconfig.dev.json
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\bin\Debug\net5.0\ProgrammingBasic2.dll
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\bin\Debug\net5.0\ref\ProgrammingBasic2.dll
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\bin\Debug\net5.0\ProgrammingBasic2.pdb
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\obj\Debug\net5.0\ProgrammingBasic2.csproj.AssemblyReference.cache
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\obj\Debug\net5.0\ProgrammingBasic2.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\obj\Debug\net5.0\ProgrammingBasic2.AssemblyInfoInputs.cache
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\obj\Debug\net5.0\ProgrammingBasic2.AssemblyInfo.cs
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\obj\Debug\net5.0\ProgrammingBasic2.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\obj\Debug\net5.0\ProgrammingBasic2.dll
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\obj\Debug\net5.0\ref\ProgrammingBasic2.dll
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\obj\Debug\net5.0\ProgrammingBasic2.pdb
+C:\OnlineTraining\CGI\C#\ProgrammingBasic2\ProgrammingBasic2\obj\Debug\net5.0\ProgrammingBasic2.genruntimeconfig.cache

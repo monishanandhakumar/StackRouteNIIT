@@ -1,0 +1,14 @@
+C:\OnlineTraining\CGI\C#\PrjProgrammingConstruction\PrjProgrammingConstruction\bin\Debug\netcoreapp3.1\PrjProgrammingConstruction.exe
+C:\OnlineTraining\CGI\C#\PrjProgrammingConstruction\PrjProgrammingConstruction\bin\Debug\netcoreapp3.1\PrjProgrammingConstruction.deps.json
+C:\OnlineTraining\CGI\C#\PrjProgrammingConstruction\PrjProgrammingConstruction\bin\Debug\netcoreapp3.1\PrjProgrammingConstruction.runtimeconfig.json
+C:\OnlineTraining\CGI\C#\PrjProgrammingConstruction\PrjProgrammingConstruction\bin\Debug\netcoreapp3.1\PrjProgrammingConstruction.runtimeconfig.dev.json
+C:\OnlineTraining\CGI\C#\PrjProgrammingConstruction\PrjProgrammingConstruction\bin\Debug\netcoreapp3.1\PrjProgrammingConstruction.dll
+C:\OnlineTraining\CGI\C#\PrjProgrammingConstruction\PrjProgrammingConstruction\bin\Debug\netcoreapp3.1\PrjProgrammingConstruction.pdb
+C:\OnlineTraining\CGI\C#\PrjProgrammingConstruction\PrjProgrammingConstruction\obj\Debug\netcoreapp3.1\PrjProgrammingConstruction.csproj.AssemblyReference.cache
+C:\OnlineTraining\CGI\C#\PrjProgrammingConstruction\PrjProgrammingConstruction\obj\Debug\netcoreapp3.1\PrjProgrammingConstruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineTraining\CGI\C#\PrjProgrammingConstruction\PrjProgrammingConstruction\obj\Debug\netcoreapp3.1\PrjProgrammingConstruction.AssemblyInfoInputs.cache
+C:\OnlineTraining\CGI\C#\PrjProgrammingConstruction\PrjProgrammingConstruction\obj\Debug\netcoreapp3.1\PrjProgrammingConstruction.AssemblyInfo.cs
+C:\OnlineTraining\CGI\C#\PrjProgrammingConstruction\PrjProgrammingConstruction\obj\Debug\netcoreapp3.1\PrjProgrammingConstruction.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\CGI\C#\PrjProgrammingConstruction\PrjProgrammingConstruction\obj\Debug\netcoreapp3.1\PrjProgrammingConstruction.dll
+C:\OnlineTraining\CGI\C#\PrjProgrammingConstruction\PrjProgrammingConstruction\obj\Debug\netcoreapp3.1\PrjProgrammingConstruction.pdb
+C:\OnlineTraining\CGI\C#\PrjProgrammingConstruction\PrjProgrammingConstruction\obj\Debug\netcoreapp3.1\PrjProgrammingConstruction.genruntimeconfig.cache

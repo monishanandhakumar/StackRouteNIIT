@@ -1,0 +1,330 @@
+.Net-
+
+.Net --Network enabled Technology
+
+framework??
+
+various types of application
+----------------------------
+
+console application
+windows application-winform
+web application-Asp.net core 
+mobile application-Xamarin 
+
+.Net Environment
+----------------
+1.Net framework                                     2.Netcore 
+
+-not crossplatform                            -crossplatform
+-not cloud ready                              --cloud ready
+--not for ML,IOT                              --ML,IOT
+--iis express                                 --iis express,apache etc..
+--not CLI                                     --CLI 
+--VisualStudio                                 --Visualstudio,vscode etc..
+
+                   --C#,Vb,F# etc...
+
+CSharp  -->C#
+
+CLS--Common language specification
+
+MSIL-MicroSoft intermediate Language
+
+  C# Intro, Datatypes(Value type and Reference Type),
+  Operators (Arithmetic, BitWise,Relational etc)
+  Constants, Type Casting
+
+--------------------------------------
+Data type
+
+1.Value type                                2.Reference type
+
+Int,float,long,double,enum etc           class,array,object,interface,string etc
+
+Stack  memory	int a=89;				Heap	
+
+
+TypeCasting:
+-----------
+1.Implicit typecasting
+
+
+2.Explicit typecasting
+
+
+Operators (Arithmetic, BitWise,Relational etc)
+-----------------------------------------------
+1. Arithmetic - +, - ,*,/,%
+2.Relational  --  >,<,>=,<=,!=,==
+3.Logical --  && and , || or,! not
+
+truth table
+
+and
+0 0  0
+0 1  0
+1 0  0
+1 1  1
+
+or
+
+0 0  0
+0 1  1
+1 0  1
+1 1  1
+
+4.Bitwise operator
+ & -bitwise and , | -bitwise or, ^ -bitwise Xor,~ -complement, <<-leftshift, >>- rightshift 
+
+
+
+
+  Eg:
+
+ a=14 -- 00001110
+ b=11 -- 00001011  -- bitwise or
+        ----------  
+    15-  00001111
+        ----------- 
+
+
+ a=14 -- 00001110
+ b=11 -- 00001011  -- bitwise add
+        ----------  
+    10  -- 00001010
+        ----------- 
+
+
+ a=14 -- 00001110
+ b=11 -- 00001011  -- bitwise XOR
+        ----------  
+      5-   00000101
+        ----------- 
+
+
+a=14 -- 00001110  -- ~  complement --11110001
+
+Leftshift-- add 0 to lsb
+
+42= 101010 
+ 42<<1 = 1010100 = 84
+42<<2 = 10101000 =  168
+
+Assignment operator
+-------------------
+
+a+=b  -->a=a+b
+
+a-=b  -->a=a-b
+
+a*=b  --> a=a*b
+
+a<<=2  -->a =a<<2
+  
+
+
+(13-3-2022)
+
+Instructor Led Session:Programming Constructs(if else, switch case,ternary operator), Loops
+
+
+if(condition)
+{
+
+}
+
+else
+
+{
+
+}
+
+
+if(condition)
+{
+
+}
+
+else if(condition)
+
+{
+
+}
+
+else
+{
+
+}
+
+Nested if -else
+
+if(condition)
+{
+   if(condition){}
+   else
+  {}
+
+}
+
+else
+
+{
+}
+
+Switch case
+------------
+
+switch(condition)
+{
+case conditionexpression   or case '+' or case "add"
+
+}
+
+
+Ternary Operator
+-----------------
+
+condition?Expresion1:Expresion2;
+
+loop
+------
+for,foreach,while,dowhile
+
+for(initialize;condition;increment/decrement)
+
+while(condition)
+{
+
+
+}
+
+do
+{
+
+
+}while();
+
+String and Stringbuilder
+
+String
+-------
+Clone()
+Compare()
+CompareTo()
+Concat()
+Conatins()  --return boolen value
+CopyTo()
+EndsWith(string)
+Equals()
+Format()
+Trim()
+
+etc
+
+Compare
+--------
+s1==s2  return 0
+s1>s2  return 1
+s1<s2  return -1
+
+String -immutable-cant be changed once created
+
+StringBuilder
+-------------
+
+StringBuilder s=new StringBuilder("Hi",10)
+
+Methods
+--------
+
+Append(stringvalue)
+AppendFormat()
+Insert(int index,string value)
+Remove(int start,int length)
+Replace(oldvalue,newvalue)
+
+
+RegularExpression
+------------------
+
+-Patternmatching
+
+class- Regex
+
+System.Text.RegularExpression
+
+
+  monisha@gmail.com
+
+*-Zero or more character
++,one or more character
+
+Methods or Functions or Memberfunction
+
+accessspecifier retuntype methodname (list of parameters)
+{
+
+}
+
+ 19-3-2022
+------------
+Enumeration -enum --value type ,used to assign the intergral constant to string
+
+Eg:Jan-1,feb-2,mar,april,etc..dec-12
+
+weekdays:Monday -1 ,tuesday-
+
+Feedback-Poor-1,fair-2,
+
+
+Structs
+--------
+--is value type
+--class which holds only the value type --int,float,double etc it cant have-reference datatype string,array etc
+
+NullableType:
+-------------
+1.Value nullable type      2.Reference nullable type
+
+Object Oriented Programming
+-----------------------------
+object- real world entity is an object
+
+eg:student,college,organization,teacher etc
+
+Class- Members and memberfunction
+
+--blue print of object
+
+Constructor
+------------
+--special method with same name as the class name
+--init the values for the instance variable
+--constructors are invoked at object creations
+
+Overloading  -no of  parameter   and type of the parameter
+-----------
+
+--samename 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
