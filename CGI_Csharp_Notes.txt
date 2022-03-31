@@ -334,12 +334,43 @@ Polymorphism
 ------------
 1.CompileTime polymorphism   (Overloading)  2.Run-Time polymorphism (Overriding)
 
+Interface
+
+--------------------
+Params and Out
+
+Method--> two types of parameter
+
+1.Input parameter
+2.Output Paramter
+
+Params:
+-------
+
+
+ExceptionHandling
+-----------------
+
+1.System Exception 2.Application Exception
 
 
 
+try,catch,finally and throw
+
+
+Static
+
+constructor,class,member and member function
 
 
 
+Enum and struct
+
+Hobbes
+26-3-2022
+Manual
+1.Params and out
+2.Exception handling
 
 
 

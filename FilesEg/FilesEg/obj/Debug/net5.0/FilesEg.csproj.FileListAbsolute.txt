@@ -1,0 +1,16 @@
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\bin\Debug\net5.0\FilesEg.exe
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\bin\Debug\net5.0\FilesEg.deps.json
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\bin\Debug\net5.0\FilesEg.runtimeconfig.json
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\bin\Debug\net5.0\FilesEg.runtimeconfig.dev.json
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\bin\Debug\net5.0\FilesEg.dll
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\bin\Debug\net5.0\ref\FilesEg.dll
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\bin\Debug\net5.0\FilesEg.pdb
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\obj\Debug\net5.0\FilesEg.csproj.AssemblyReference.cache
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\obj\Debug\net5.0\FilesEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\obj\Debug\net5.0\FilesEg.AssemblyInfoInputs.cache
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\obj\Debug\net5.0\FilesEg.AssemblyInfo.cs
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\obj\Debug\net5.0\FilesEg.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\obj\Debug\net5.0\FilesEg.dll
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\obj\Debug\net5.0\ref\FilesEg.dll
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\obj\Debug\net5.0\FilesEg.pdb
+C:\OnlineTraining\CGI\C#\FilesEg\FilesEg\obj\Debug\net5.0\FilesEg.genruntimeconfig.cache

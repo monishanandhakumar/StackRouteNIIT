@@ -16,6 +16,19 @@ namespace prjOOP
         {
             Console.WriteLine(totalcoll);
         }
+
+        public virtual void Rules()
+        {
+
+            Console.WriteLine("ID Card is Mandatory");
+        }
+
+        public virtual void ProjectScore()
+        {
+            int projectmark=100, Attendance=59,pscore;
+
+            pscore = projectmark + Attendance;
+        }
     }
 
     class MIT : AICTE
@@ -26,6 +39,17 @@ namespace prjOOP
             double grade;
             Console.WriteLine("MIT GradeCalculator");
 
+        }
+        public override void Rules()
+        {
+            Console.WriteLine("Follow Dress Code");
+        }
+
+        public override void ProjectScore()
+        {
+            int projectmark = 100, Attendance = 59,Assignmentmark=78, pscore;
+
+            pscore = projectmark + Attendance+ Assignmentmark;
         }
     }
     class SRM : AICTE
