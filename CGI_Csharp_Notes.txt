@@ -372,9 +372,70 @@ Manual
 1.Params and out
 2.Exception handling
 
+ Testing:
 
+ TDD- Test Driven Development -
 
+ unit testing
 
+ 3 A's
+
+Arrange- we will do the necessary setup of the test
+Act--actual unit test is done
+Assert-we will check and verify the returned result with expected result
+
+Nunit framework
+
+What is Datastructure?
+
+Organizing and sorting your datas in computer
+
+Arrays-
+
+Collection
+-------------
+
+using System.Collections
+
+ArrayList
+
+SortedList-Key value pair
+
+Hashtable-Key value pair
+
+Stack-LIFO
+
+Queue
+
+--dynamically add the data
+--will accept heterogeneous datatypes
+
+drawbacks
+----------
+1.Not type safe
+2.boxing and unboxing --Performance 
+
+Generic
+--------
+
+  rep  <T> --datatype
+
+System.Collections.Generic;
+
+List
+
+SortedList
+
+Dictionary
+
+Stack
+
+Queue
+
+------
+Serialzation--process of converting the object into streams of bytes.
+
+--save the state of the object
 
 
 
