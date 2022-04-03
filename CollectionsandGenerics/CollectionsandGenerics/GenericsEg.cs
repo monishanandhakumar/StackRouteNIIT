@@ -45,10 +45,65 @@ namespace CollectionsandGenerics
 
         }
 
+        static void SortedList()
+        {
+            SortedList<string, string> sl = new SortedList<string, string>();
+            sl.Add("k", "Kite");
+            sl.Add("a", "All");
+            sl.Add("c", "Currency");
+
+            foreach(KeyValuePair<string,string> kp in sl)
+            {
+                Console.WriteLine(kp.Key+" "+kp.Value);
+            }
+        }
+        //FILO
+        static void StackEg()
+        {
+            Stack<int> st = new Stack<int>();
+            st.Push(90);
+            st.Push(89);
+            st.Push(67);
+            st.Push(56);
+
+            foreach(int o in st)
+            {
+                Console.WriteLine(o);
+            }
+            Console.WriteLine("---------------------------");
+            st.Pop();
+            Console.WriteLine("Peek is:{0}",st.Peek()); 
+
+        }
+
+        static void QueueEg()
+        {
+            Queue<string> q = new Queue<string>();
+            q.Enqueue("Java");
+            q.Enqueue("ÄI");
+            q.Enqueue("TOC");
+            q.Enqueue("OOAD");
+
+            foreach(string s in q)
+            {
+                Console.WriteLine(s);
+            }
+
+            q.Dequeue();
+            Console.WriteLine("-----------After Dequeue---------");
+            foreach (string s in q)
+            {
+                Console.WriteLine(s);
+            }
+
+        }
         static void Main()
         {
             // ListEg(); 
-            DictionaryEg();
+            // DictionaryEg();
+            // SortedList();
+          //  StackEg();
+            QueueEg(); 
         }
     }
 }

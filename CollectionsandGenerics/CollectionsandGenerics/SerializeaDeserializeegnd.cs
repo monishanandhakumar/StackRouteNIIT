@@ -10,12 +10,15 @@ using System.Runtime.Serialization.Formatters.Binary;
 namespace CollectionsandGenerics
 {
     [Serializable]
+    //Model
    public class Student
     {
         public int sid { get; set; }
         public string sname { get; set; }
         public int age { get; set; }
-        
+
+      
+
     }
     [Serializable]
    public class SerializeaDeserializeegnd
@@ -35,13 +38,15 @@ namespace CollectionsandGenerics
             //IFormatter->Interface(Serialize and Deserialize),BinaryFormatter(class)->inheriting->IFormatter
 
             //Base->Derived
+         //   BinaryFormatter formatter = new BinaryFormatter();
             IFormatter formatter = new BinaryFormatter();
 
             //Stream->abstract class,Filestream(class)-inheriting the stream class
             //Base->Derived
+           // FileStream stream = new FileStream(@"D:\Studentinfo.txt", FileMode.Create, FileAccess.Write);
             Stream stream = new FileStream(@"D:\Studentinfo.txt", FileMode.Create, FileAccess.Write);
 
-            //stream->ExampleNew.txt  obj->ID and Name
+            //stream
             formatter.Serialize(stream, students);
             stream.Close();
             Console.WriteLine("Data Serialized ");
@@ -50,7 +55,7 @@ namespace CollectionsandGenerics
         
         public void Deseralize()
         {
-            Student[] stu;
+            
             //Base->Derived
             
             Stream stream = new FileStream(@"D:\Studentinfo.txt", FileMode.Open, FileAccess.Read);
@@ -64,13 +69,17 @@ namespace CollectionsandGenerics
             Console.WriteLine(objnew[0].sid);
             Console.WriteLine(objnew[0].sname);
             Console.WriteLine(objnew[0].age);
+            Console.WriteLine(objnew[1].sid);
+            Console.WriteLine(objnew[1].sname);
+            Console.WriteLine(objnew[1].age);
+
 
 
         }
         static void Main()
         {
             SerializeaDeserializeegnd obj = new SerializeaDeserializeegnd();
-            obj.SerializeEg();
+           // obj.SerializeEg();
             obj.Deseralize();
         }
     }
