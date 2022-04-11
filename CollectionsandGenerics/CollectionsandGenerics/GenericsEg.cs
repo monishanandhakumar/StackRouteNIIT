@@ -99,11 +99,11 @@ namespace CollectionsandGenerics
         }
         static void Main()
         {
-            // ListEg(); 
+           ListEg(); 
             // DictionaryEg();
             // SortedList();
-          //  StackEg();
-            QueueEg(); 
+          //StackEg();
+            //QueueEg(); 
         }
     }
 }

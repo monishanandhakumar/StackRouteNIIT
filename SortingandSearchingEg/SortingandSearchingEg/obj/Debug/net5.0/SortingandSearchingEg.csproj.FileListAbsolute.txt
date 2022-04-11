@@ -1,0 +1,16 @@
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\bin\Debug\net5.0\SortingandSearchingEg.exe
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\bin\Debug\net5.0\SortingandSearchingEg.deps.json
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\bin\Debug\net5.0\SortingandSearchingEg.runtimeconfig.json
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\bin\Debug\net5.0\SortingandSearchingEg.runtimeconfig.dev.json
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\bin\Debug\net5.0\SortingandSearchingEg.dll
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\bin\Debug\net5.0\ref\SortingandSearchingEg.dll
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\bin\Debug\net5.0\SortingandSearchingEg.pdb
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\obj\Debug\net5.0\SortingandSearchingEg.csproj.AssemblyReference.cache
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\obj\Debug\net5.0\SortingandSearchingEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\obj\Debug\net5.0\SortingandSearchingEg.AssemblyInfoInputs.cache
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\obj\Debug\net5.0\SortingandSearchingEg.AssemblyInfo.cs
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\obj\Debug\net5.0\SortingandSearchingEg.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\obj\Debug\net5.0\SortingandSearchingEg.dll
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\obj\Debug\net5.0\ref\SortingandSearchingEg.dll
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\obj\Debug\net5.0\SortingandSearchingEg.pdb
+C:\OnlineTraining\CGI\C#\SortingandSearchingEg\SortingandSearchingEg\obj\Debug\net5.0\SortingandSearchingEg.genruntimeconfig.cache

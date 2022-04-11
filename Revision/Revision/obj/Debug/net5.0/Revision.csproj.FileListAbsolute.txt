@@ -1,0 +1,16 @@
+C:\OnlineTraining\CGI\C#\Revision\Revision\bin\Debug\net5.0\Revision.exe
+C:\OnlineTraining\CGI\C#\Revision\Revision\bin\Debug\net5.0\Revision.deps.json
+C:\OnlineTraining\CGI\C#\Revision\Revision\bin\Debug\net5.0\Revision.runtimeconfig.json
+C:\OnlineTraining\CGI\C#\Revision\Revision\bin\Debug\net5.0\Revision.runtimeconfig.dev.json
+C:\OnlineTraining\CGI\C#\Revision\Revision\bin\Debug\net5.0\Revision.dll
+C:\OnlineTraining\CGI\C#\Revision\Revision\bin\Debug\net5.0\ref\Revision.dll
+C:\OnlineTraining\CGI\C#\Revision\Revision\bin\Debug\net5.0\Revision.pdb
+C:\OnlineTraining\CGI\C#\Revision\Revision\obj\Debug\net5.0\Revision.csproj.AssemblyReference.cache
+C:\OnlineTraining\CGI\C#\Revision\Revision\obj\Debug\net5.0\Revision.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineTraining\CGI\C#\Revision\Revision\obj\Debug\net5.0\Revision.AssemblyInfoInputs.cache
+C:\OnlineTraining\CGI\C#\Revision\Revision\obj\Debug\net5.0\Revision.AssemblyInfo.cs
+C:\OnlineTraining\CGI\C#\Revision\Revision\obj\Debug\net5.0\Revision.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\CGI\C#\Revision\Revision\obj\Debug\net5.0\Revision.dll
+C:\OnlineTraining\CGI\C#\Revision\Revision\obj\Debug\net5.0\ref\Revision.dll
+C:\OnlineTraining\CGI\C#\Revision\Revision\obj\Debug\net5.0\Revision.pdb
+C:\OnlineTraining\CGI\C#\Revision\Revision\obj\Debug\net5.0\Revision.genruntimeconfig.cache

@@ -405,7 +405,7 @@ Hashtable-Key value pair
 
 Stack-LIFO
 
-Queue
+Queue-FIFO
 
 --dynamically add the data
 --will accept heterogeneous datatypes
@@ -432,10 +432,185 @@ Stack
 
 Queue
 
+linked list - Liner data structure
+
+Type
+1.Single
+2.Double
+3.Circular
+
+
 ------
 Serialzation--process of converting the object into streams of bytes.
 
 --save the state of the object
+
+
+-----
+
+
+Divide and Conqure
+
+1.Divide-divide problem into smaller sub-Problem
+2.Conqure-Solve sub-problem b calling recursively until solved
+3.Combine-combine the sub problem to get the final solution
+
+Greedy Algorithm
+
+1 2 10  
+
+=7
+
+Efficiency of an Algorithm
+
+
+ 1.Space Complexity
+ 2.Time complexity
+
+
+Sorting:
+
+Bubble Sort
+Insertion Sort
+Quick Sort
+
+Bubble Sort
+---------------
+
+int[] arr = { 7, 2, 1, 5, 8 };
+ 
+
+                5-1        
+for(int i=0;i<arr.Length-1;i++)
+            {
+                               5-0-1  
+                for(int j=0;j<arr.Length-i-1; j++)
+                {
+                    //swapping
+                    if(arr[j]>arr[j+1])                        
+                        int temp;
+                        temp = arr[j];
+                        arr[j] = arr[j + 1];
+                        arr[j + 1] = temp;
+                    }
+
+                }
+            }
+
+i=0
+
+    j=0  { 2,7, 1, 5, 8 }
+    j=1   {2,1,7,5,8} 
+    j=2   {2,1,5,7,8}  
+    j=3            
+
+i=1
+
+     {2,1,5,7,8} 
+     
+
+j=0 
+
+   0<5-1-1=3
+
+j=0  {1,2,5,7,8}
+j=1 {1,2,5,7,8}
+j=2  {1,2,5,7,8}
+j=3
+
+Insertion Sort
+
+
+              0   1  2  3  4
+int[] arr = { 7, 2, 1, 5, 8 };
+            int j, temp;
+                            5-1
+            for(int i=1;i<arr.Length-1;i++)
+            {
+                temp = arr[i];
+                j = i - 1;
+                while(j>=0 && arr[j]>temp )
+                {
+                    arr[j + 1] = arr[j];
+                    j--;
+                }
+                arr[j + 1] = temp;
+            }
+
+
+i=1
+
+  temp=2  --arr[1]
+  j=1-1=0
+  
+while(0>=0 && 7 > 2)
+{
+
+ arr[0+1]=7    -->arr[1]=7
+ j=-1;
+
+
+}
+arr[-1+1]==arr[0]=2
+
+arr={2,7,1,5,8}
+----------------------------------------
+i=2
+
+temp=1
+j=2-1=1
+while(1>=0 && 7 >1 )
+
+
+
+Quick Sort
+------------
+Pivot(first element or middle or last element)
+
+  9 ,6,1,5,10,20
+
+   1,5,6,9,10,20
+
+
+1.Choose pivot element 
+   
+   for the above pivot element
+  i value -->smaller ,j value -->larger
+
+   else
+
+   swap(i,j)
+
+2. i value -->large  (or)i>=j
+   j value--->small
+ 
+     swap(p,j)
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

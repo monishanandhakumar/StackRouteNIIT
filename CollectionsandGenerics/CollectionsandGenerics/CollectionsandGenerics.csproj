@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>CollectionsandGenerics.LinkedListEg</StartupObject>
+    <StartupObject>CollectionsandGenerics.PhoneBook_Dic</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
